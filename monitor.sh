@@ -10,6 +10,6 @@ fi
 echo "--- Utilisation CPU ---"
 top -n 1 | grep "Cpu"
 echo "--- Utilisation RAM ---"
-fre -h | grep "Mem"
+free -h | grep "Mem"
 echo "--- Espace Disque ---"
 df -h
