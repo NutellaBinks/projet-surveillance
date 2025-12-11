@@ -2,3 +2,4 @@
 
 ## Fonctionnalités
 - Surveillance CPU
+- Surveillance RAM
